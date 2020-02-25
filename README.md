@@ -1,6 +1,6 @@
 # &#x25B6; Desarrollo de una aplicación.
 
-## &#x1F539; Misión.
+## &#xE21F539; Misión.
 Ser buenos alumnos, excelentes trabajadores y mejores personas.
 
 ## &#x1F539; Visión.
