@@ -1,4 +1,4 @@
-# U+27A1; Desarrollo de una aplicación.
+# U+27A1 Desarrollo de una aplicación.
 
 ## &#x1F539; Misión.
 Ser buenos alumnos, excelentes trabajadores y mejores personas.
