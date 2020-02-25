@@ -1,6 +1,6 @@
 # Desarrollo de una aplicación.
 
-## + Misión.
+## &#x1F536; Misión.
 Ser buenos alumnos, excelentes trabajadores y mejores personas.
 
 ## + Visión.
