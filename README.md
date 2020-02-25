@@ -1,4 +1,4 @@
-# &#xE226A1; Desarrollo de una aplicación.
+# &#xE6A1; Desarrollo de una aplicación.
 
 ## &#x1F539; Misión.
 Ser buenos alumnos, excelentes trabajadores y mejores personas.
