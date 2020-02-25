@@ -1,2 +1,8 @@
-# desarrollo-app
-Equipo de trabajo para la materia de Sistemas de Información
+# Desarrollo de una aplicación.
+## Equipo de trabajo.
+- Fragozo Rodriguez Oswaldo. 
+- García Chávez Tomás Adrian.
+- Rios Cortes Juan Ulises.
+- José Iván Vázquez Ramón.
+## Misión.
+## Visión.
