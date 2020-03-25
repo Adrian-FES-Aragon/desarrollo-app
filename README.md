@@ -17,18 +17,15 @@
 
 ## &#x1F529; Equipo de trabajo.
 ---
--  Fragozo Rodriguez Oswaldo.
+Fragozo Rodriguez Oswaldo.
   - &#x1F4BC; https://github.com/OswaldoFragozo98
 ---
-
-- García Chávez Tomás Adrian.
+García Chávez Tomás Adrian.
   - &#x1F4BC; https://github.com/Adrian-ICO
 ---
-
-- José Iván Vázquez Ramón.
+José Iván Vázquez Ramón.
   - &#x1F4BC; https://github.com/IvanGoenji10
 ---
-
-- Rios Cortes Juan Ulises.
+Rios Cortes Juan Ulises.
   - &#x1F4BC; https://github.com/JuanUlisesRiosCortes
 ---
