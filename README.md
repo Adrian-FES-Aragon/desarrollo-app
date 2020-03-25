@@ -18,6 +18,7 @@
 ## &#x1F529; Equipo de trabajo.
 
 -  Fragozo Rodriguez Oswaldo.
+
   - &#x1F4BC; https://github.com/OswaldoFragozo98
 
 
