@@ -23,8 +23,5 @@ Fragozo Rodriguez Oswaldo.
 García Chávez Tomás Adrian.
   - &#x1F4BC; https://github.com/Adrian-ICO
 
-José Iván Vázquez Ramón.
-  - &#x1F4BC; https://github.com/IvanGoenji10
-
 Rios Cortes Juan Ulises.
   - &#x1F4BC; https://github.com/JuanUlisesRiosCortes
