@@ -1,23 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <link rel="stylesheet" type="text/css" href="./assets/estilo.php">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="Shortcut icon" href="assets/vicon.png">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Eliminar</title>
-</head>
-
-<body class="body1">
-    <?php
+<?php
     session_start();
     $carry = $_SESSION['noCuenta'];
     if (!isset($carry)) {
-        header("location: index.php");
+        header("Status: 301 Moved Permanently");
+        header("Location: https://crud-fesa.000webhostapp.com/index.php");
+        //header("Location: index.php");
+        exit;
     } else {
-    
+        echo'<!DOCTYPE html>
+        <html lang="en">
+        
+        <head>
+            <link rel="stylesheet" type="text/css" href="./assets/estilo.php">
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+            <link rel="Shortcut icon" href="assets/vicon.png">
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Eliminar</title>
+        </head>
+        
+        <body class="body1">';
+        
     include("./assets/header.php");
     //$aVar = mysqli_connect('localhost','root','','php_test');
     echo '
@@ -50,12 +53,13 @@
     <INPUT TYPE="SUBMIT" value="BORRAR" class="btn1" style="font-size:.6em">
     <input type="button" style="font-size:.6em" onclick="location.href=`./consulta.php`" value="REGRESAR" class="btn1">
         </div>
-        </form>';
-}
+        </form>
+        </select>
+        </div>
+        </div>
+        </body>
+        
+        </html>
+        ';
+    }
     ?>
-    </select>
-    </div>
-    </div>
-</body>
-
-</html>

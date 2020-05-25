@@ -9,8 +9,8 @@ $color[1]='#636468';
 $i=rand(0,0);
 $u=rand(5,0);
 */
-?>
 
+echo"
 .body1{
     background: url('back.jpg') repeat center fixed;
     background-size: cover;
@@ -105,3 +105,5 @@ $u=rand(5,0);
     text-align:center;
     color: white;
 }
+";
+?>
