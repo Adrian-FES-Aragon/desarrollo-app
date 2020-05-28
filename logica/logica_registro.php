@@ -1,7 +1,7 @@
 <?php
 echo'<link rel="stylesheet" type="text/css" href="../assets/estilo.php">
 <link rel="Shortcut icon" href="../assets/vicon.png">';
-require "conexion.php";
+require "../conexion.php";
 //conexion a la DB
 
 mysqli_set_charset($conn, 'utf8');

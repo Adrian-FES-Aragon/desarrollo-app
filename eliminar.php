@@ -35,7 +35,7 @@
 ';
 
     //Conexion con la base ---------------
-    require "./logica/conexion.php";
+    require "conexion.php";
 
     echo "<FORM METHOD='POST' ACTION='./logica/logica_eliminar.php' class='form1 data'> Usuario a eliminar: <br >
         <div align='center'>";

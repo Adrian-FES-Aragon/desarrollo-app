@@ -19,7 +19,7 @@ if (!isset($carry)) {
 
     //se usa el require para requerir obligatoriamente el archivo conexion 
     //no es requisito obligatorio, independiente de los erroes
-    require("./logica/conexion.php");
+    require("conexion.php");
     //$conexion = new mysqli('127.0.0.1', 'root', '', 'php_test');
     //generar el query
     $consulta_sql = "SELECT * FROM USUARIOS";
