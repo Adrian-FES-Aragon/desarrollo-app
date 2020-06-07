@@ -3,8 +3,8 @@
     $carry = $_SESSION['noCuenta'];
     if (!isset($carry)) {
         header("Status: 301 Moved Permanently");
-        header("Location: https://crud-fesa.000webhostapp.com/index.php");
-        //header("Location: index.php");
+        //header("Location: https://crud-fesa.000webhostapp.com/index.php");
+        header("Location: index.php");
         exit;
     } else {
         echo'<!DOCTYPE html>
@@ -35,7 +35,7 @@
 ';
 
     //Conexion con la base ---------------
-    require "./logica/conexion.php";
+    require "conexion.php";
 
     echo "<FORM METHOD='POST' ACTION='./logica/logica_eliminar.php' class='form1 data'> Usuario a eliminar: <br >
         <div align='center'>";

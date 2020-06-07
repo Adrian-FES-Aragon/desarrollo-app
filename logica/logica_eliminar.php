@@ -7,7 +7,7 @@ session_start();
 $carry = $_SESSION['noCuenta'];
 
 //Conexion con la base
-require "conexion.php";
+require "../conexion.php";
 //Creamos la sentencia SQL y la ejecutamos
 $sSQL = "DELETE FROM USUARIOS WHERE user='{$_POST["nombre"]}'";
 $result = $conn->query($sSQL);

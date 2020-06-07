@@ -4,8 +4,8 @@ $carry = $_SESSION['noCuenta'];
 
 if (!isset($carry)) {
     header("Status: 301 Moved Permanently");
-    header("Location: https://crud-fesa.000webhostapp.com/index.php");
-    //header("Location: index.php");
+    //header("Location: https://crud-fesa.000webhostapp.com/index.php");
+    header("Location: index.php");
     exit;
 } else {
     echo '<link rel="Shortcut icon" href="assets/vicon.png">
@@ -19,7 +19,7 @@ if (!isset($carry)) {
 
     //se usa el require para requerir obligatoriamente el archivo conexion 
     //no es requisito obligatorio, independiente de los erroes
-    require("./logica/conexion.php");
+    require("conexion.php");
     //$conexion = new mysqli('127.0.0.1', 'root', '', 'php_test');
     //generar el query
     $consulta_sql = "SELECT * FROM USUARIOS";
