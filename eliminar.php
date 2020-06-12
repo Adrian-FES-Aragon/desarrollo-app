@@ -3,8 +3,8 @@
     $carry = $_SESSION['noCuenta'];
     if (!isset($carry)) {
         header("Status: 301 Moved Permanently");
-        header("Location: https://crud-fesa.000webhostapp.com/index.php");
-        //header("Location: index.php");
+        //header("Location: https://crud-fesa.000webhostapp.com/index.php");
+        header("Location: index.php");
         exit;
     } else {
         echo'<!DOCTYPE html>
@@ -13,7 +13,7 @@
         <head>
             <link rel="stylesheet" type="text/css" href="./assets/estilo.php">
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-            <link rel="Shortcut icon" href="assets/vicon.png">
+            <link rel="Shortcut icon" href="assets/coders2.png">
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Eliminar</title>

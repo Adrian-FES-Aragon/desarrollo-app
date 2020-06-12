@@ -1,6 +1,6 @@
 <?php
 echo'<link rel="stylesheet" type="text/css" href="../assets/estilo.php">
-<link rel="Shortcut icon" href="../assets/vicon.png">';
+<link rel="Shortcut icon" href="../assets/coders2.png">';
 require "../conexion.php";
 //conexion a la DB
 

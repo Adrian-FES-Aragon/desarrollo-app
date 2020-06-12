@@ -2,7 +2,7 @@
 echo "
     <header >
         <a href='index.php' class='a2' title='INICIO'>
-          <img src='assets/vagawhite.png' alt='Logo' class='img1'>
+          <img src='assets/coders.png' alt='Logo' class='img1'>
         </a>
     </header>
     ";
@@ -14,8 +14,8 @@ echo "
         line-height: 110%;
         margin-left: 1%;
         margin-top: 1%;
-        width: 180px;
-        height: 60px;
+        width: 350px;
+        height: 120px;
     }
 
     .img1 {

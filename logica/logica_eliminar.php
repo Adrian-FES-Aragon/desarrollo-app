@@ -1,4 +1,4 @@
-<link rel="Shortcut icon" href="../assets/vicon.png">
+<link rel="Shortcut icon" href="../assets/coders2.png">
 <link rel="stylesheet" type="text/css" href="../assets/estilo.php">
 <title>ELIMINADO</title>
 

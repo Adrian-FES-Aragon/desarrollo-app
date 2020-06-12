@@ -14,8 +14,8 @@ if($array['contar'] > 0){
     //header("location: pagina.html")
     $_SESSION['noCuenta']=$user;
     header("Status: 301 Moved Permanently");
-    header("Location: https://crud-fesa.000webhostapp.com/consulta.php");
-    //header("Location:../consulta.php");
+   // header("Location: https://crud-fesa.000webhostapp.com/consulta.php");
+    header("Location:../consulta.php");
     exit;
 }
 else {

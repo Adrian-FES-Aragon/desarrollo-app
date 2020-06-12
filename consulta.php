@@ -4,11 +4,11 @@ $carry = $_SESSION['noCuenta'];
 
 if (!isset($carry)) {
     header("Status: 301 Moved Permanently");
-    header("Location: https://crud-fesa.000webhostapp.com/index.php");
-    //header("Location: index.php");
+    //header("Location: https://crud-fesa.000webhostapp.com/index.php");
+    header("Location: index.php");
     exit;
 } else {
-    echo '<link rel="Shortcut icon" href="assets/vicon.png">
+    echo '<link rel="Shortcut icon" href="assets/coders2.png">
     <link rel="stylesheet" type="text/css" href="assets/estilo.php">
     <title>Consulta</title>';
 
