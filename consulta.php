@@ -77,7 +77,7 @@ if (!isset($carry)) {
     }
 
     body {
-        background: url('assets/back2.jpg') repeat center fixed;
+        background: url('assets/back2.png') repeat center fixed;
         color: white;
         background-size: cover;
         font-size: 1.5em;
