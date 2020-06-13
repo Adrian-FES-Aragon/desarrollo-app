@@ -14,8 +14,8 @@ echo "
         line-height: 110%;
         margin-left: 1%;
         margin-top: 1%;
-        width: 350px;
-        height: 120px;
+        width: 262px;
+        height: 85px;
     }
 
     .img1 {
