@@ -1,6 +1,6 @@
 # &#x1F4F1; Desarrollo de una aplicación.
 
-## &#x2B50; Misión.
+## &#x2B50;  Misión.
 
 <div class=text-justify>
 
@@ -8,14 +8,14 @@
 
 <div>
 
-## &#x2B50; Visión.
+## &#x2B50;  Visión.
 
 <div class=text-justify>
 
 - Nuestro objetivo actual es trabajar eficientemente en equipo con la finalidad de crear un ambiente llevadero que nos permita seguir creciendo como personas y que nos acerque a un ambiente más profesional para ampliar nuestras oportunidades laborales.
 <div>
 
-## &#x1F529; Equipo de trabajo.
+## &#x1F529;  Equipo de trabajo.
 
 Fragozo Rodriguez Oswaldo.
   - &#x1F4BC; https://github.com/OswaldoFragozo98
