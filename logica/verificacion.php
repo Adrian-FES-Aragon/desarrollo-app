@@ -1,6 +1,7 @@
 <?php  
 require "../conexion.php";
 session_start();
+
 $user=$_POST["txtusuario"];
 $pass=$_POST["txtpassword"];
 
@@ -19,8 +20,9 @@ if($array['contar'] > 0){
     exit;
 }
 else {
-    header("Status: 301 Moved Permanently");
-    header("HTTP/1.0 404 Not Found");
-    exit;
+  echo'<script type="text/javascript">
+  alert("Error en usuario / contraseña, intenta de nuevo. ");
+  window.location.href="../index.php";
+  </script>';
 }
 ?>
