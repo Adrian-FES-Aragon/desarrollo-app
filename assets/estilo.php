@@ -13,7 +13,7 @@ $u=rand(5,0);
 echo"
 .body1{
     background: url('back.png') repeat center fixed;
-    background-size: cover;
+    background-size: 100% 100%;
     position:relative;
     height:auto;
 }
