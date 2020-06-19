@@ -58,7 +58,7 @@ echo"
         
         background: url('../assets/back2.png') repeat center fixed;
         color: #ED5A3D;
-        background-size: cover;
+        background-size: 100% 100%;
         font-size: 2em;
     }
 
